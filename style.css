@@ -1,0 +1,24 @@
+body{
+    background-color: darkgray;
+}
+.container{
+    width: 450px;
+    height: 120px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+}
+
+.buttom{
+    position: relative;
+    right: 880px;
+    bottom: 80px;
+    width: 50px;
+    height: 40px;
+    background-color: blue;
+    border-color: blue;
+    border-radius: 10px;
+    color: #fff;
+}
